@@ -45,7 +45,6 @@ int main()
     int l;
     int w;
     int S;
-    int sumArea=0;
     pru *ppru;
 	ppru=new pru[n];
 	vector<pru> vecpru(n);
