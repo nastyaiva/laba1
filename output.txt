@@ -1,0 +1,5 @@
+Rectangle 1: length: 2, width: 2, area: 4
+Rectangle 2: length: 7, width: 2, area: 14
+Rectangle 3: length: 1, width: 13, area: 13
+2) length: 7, width: 2, square: 14
+3) length: 1, width: 13, square: 13
